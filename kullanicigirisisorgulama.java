@@ -4,7 +4,7 @@ public class kullanicigirisisorgulama {
     public static void main(String[] args) {
 
         //Kullanıcı adı ve şifre ile giriş yapılır
-        //
+        ////Yanlış şifre girerse, yeni şifre belirlemek istiyorsa yeni şifre eskisinden farklı olacak şekilde belirlenir
 
         String userName, password;
         int sec;
